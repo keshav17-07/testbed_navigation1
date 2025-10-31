@@ -1,6 +1,3 @@
-Here is an updated `README.md` file **without emojis**, formatted in Markdown, ready to paste into your repository. Edit the placeholders (`<your-github-username>`, `<video-link>`, etc.) to match your project.
-
-```markdown
 # testbed_navigation — ERIC Robotics Level 1 ROS2 Navigation Assignment
 
 **Author:** Keshav Naroju  
@@ -125,11 +122,4 @@ ros2 launch testbed_navigation navigation.launch.py
 *  Repository pushed to GitHub and accessible
 
 ---
-
-## GitHub Repository for Submission
-
-`https://github.com/<your-github-username>/testbed_navigation1`
-
-A release tag (for example `v1.0`) may also be included to mark the submission version.
-
 Prepared by Keshav Naroju — ERIC Robotics Level 1 ROS2 Navigation Assignment — 2025
