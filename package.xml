@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>testbed_navigation</name>
+  <version>0.0.1</version>
+  <description>Navigation setup for Testbed robot</description>
+  <maintainer email="keshav@example.com">Keshav Naroju</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>nav2_common</depend>
+  <depend>nav2_msgs</depend>
+  <depend>nav2_util</depend>
+  <depend>nav2_core</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

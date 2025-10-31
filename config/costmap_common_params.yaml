@@ -1,0 +1,9 @@
+costmap_common:
+  ros__parameters:
+    use_sim_time: true
+    footprint: [[0.2,0.2], [0.2,-0.2], [-0.2,-0.2], [-0.2,0.2]]
+    robot_base_frame: base_link
+    transform_tolerance: 1.0
+    update_frequency: 2.0
+    publish_frequency: 1.0
+    static_map: true
