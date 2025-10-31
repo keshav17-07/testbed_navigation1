@@ -123,3 +123,9 @@ ros2 launch testbed_navigation navigation.launch.py
 
 ---
 Prepared by Keshav Naroju — ERIC Robotics Level 1 ROS2 Navigation Assignment — 2025
+---
+## Contact info
+
+* Name: Naroju Keshav
+* Contact number: 9908028136
+* Email Address: keshavnaroju@gmail.com
